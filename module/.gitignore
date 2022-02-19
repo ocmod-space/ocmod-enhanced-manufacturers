@@ -1,0 +1,6 @@
+# Ignored
+doc/*.bb
+doc/*.odp
+pic
+src
+zip
