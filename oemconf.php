@@ -3,7 +3,7 @@
 // Constants to replace in module source files
 
 // MODNAME, MODCODE and MODFILE define in oemaker.php by used directory names
-define('MODVERS', '1.1.0');
+define('MODVERS', '1.1.1');
 define('MODYEAR', '2021');
 
 define('AUTHOR', 'Andrii Burkatskyi');
