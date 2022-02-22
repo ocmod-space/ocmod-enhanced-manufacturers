@@ -16,6 +16,5 @@ Enhanced Manufacturers is an OpenCart extension that allows to display brand log
 ## License
 [End-User License Agreement](https://raw.githubusercontent.com/ocmod-space/ocmod-enhanced-manufacturers/main/EULA.txt)
 
-## Links
+## Download
 * [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41991)
-* [GitHub](https://github.com/ocmod-space/ocmod-enhanced-manufacturers)
