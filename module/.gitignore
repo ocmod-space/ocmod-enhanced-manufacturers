@@ -1,6 +1,5 @@
 # Ignored
-doc/*.bb
-doc/*.odp
+doc
 pic
 src
 zip
