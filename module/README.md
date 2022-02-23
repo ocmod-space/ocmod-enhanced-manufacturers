@@ -1,7 +1,7 @@
 # Enhanced Manufacturers
 
 ## Description
-Enhanced Manufacturers is an OpenCart extension that allows to display brand logo and description on a manufacturer's page, as well as to display category menu with only products related to the manufacturer.
+**Enhanced Manufacturers** is an OpenCart extension that allows to display a brand logo and description on the manufacturer's page, as well as to display category menu with only products related to the manufacturer.
 
 ## Features
 * Manufacturer logo, description and meta tags on the manufacturer page.
@@ -18,3 +18,6 @@ Enhanced Manufacturers is an OpenCart extension that allows to display brand log
 
 ## Download
 * [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41991)
+
+## Related extensions
+* [Enhanced Specials](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43136) - applies special offers to all products of a manufacturer or category.
