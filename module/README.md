@@ -8,7 +8,7 @@ Compatible with OpenCart 3.x versions.
 * Manufacturer logo, description and meta tags on the manufacturer page.
 * Can display the category tree module on manufacturers page with only categories that include products of the selected manufacturer.
 * Multilingual.
-* Does not modify OC system files (OCMOD).
+* Does not modify system files (OCMOD).
 
 ## Live demo
 [Admin](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/enhanced_manufacturers)  
