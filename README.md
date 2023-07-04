@@ -5,4 +5,5 @@
 [Read more...](./module/README.md)
 
 ## Download
-[OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41991)
+* [OpenCart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=41991)
+* [OCMod Space](https://www.ocmod.space/enhanced-manufacturers)
