@@ -1,5 +1,12 @@
 # Change log
 
+## [1.1.2] - 2023.07.21:
+### Fixed
+- `manufacturer_id` in category links
+- Event uninstaller.
+### Internal
+- Code improvements.
+
 ## [1.1.1] - 2022.02.21:
 ### Fixed
 - Bug in removing process.
